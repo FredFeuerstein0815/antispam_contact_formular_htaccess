@@ -5,3 +5,5 @@ Ein Besucher der Webseite muss seine IPv4 auf einer PHP-Seite eintragen, ein Per
 Die Datei 403.php kommt, wie die freischaltungen.txt in /var/www/html
 
 Die .htaccess kommt in den zu schützenden Unterordner /var/www/html/unterordner
+
+Die ip_htaccess.pl kommt nach /usr/lib/cgi-bin/
