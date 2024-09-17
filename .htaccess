@@ -1,0 +1,10 @@
+ErrorDocument 404 /404.html
+ErrorDocument 403 /403.php
+order deny,allow
+deny from all
+#Put your internal IPs here#
+allow from 10.8.0
+allow from 127.0.0.1
+allow from 192.168.0
+allow from 192.168.0.250
+###IP-Script schreibt ab hier###
